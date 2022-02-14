@@ -1,0 +1,15 @@
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\bin\Debug\netcoreapp3.1\OnlineBanking.DataAccess.deps.json
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\bin\Debug\netcoreapp3.1\OnlineBanking.DataAccess.runtimeconfig.json
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\bin\Debug\netcoreapp3.1\OnlineBanking.DataAccess.runtimeconfig.dev.json
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\bin\Debug\netcoreapp3.1\OnlineBanking.DataAccess.dll
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\bin\Debug\netcoreapp3.1\OnlineBanking.DataAccess.pdb
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\bin\Debug\netcoreapp3.1\OnlineBanking.Common.dll
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\bin\Debug\netcoreapp3.1\OnlineBanking.Common.pdb
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.csprojAssemblyReference.cache
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.AssemblyInfo.cs
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.csproj.CopyComplete
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.dll
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.pdb
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.DataAccess\obj\Debug\netcoreapp3.1\OnlineBanking.DataAccess.genruntimeconfig.cache

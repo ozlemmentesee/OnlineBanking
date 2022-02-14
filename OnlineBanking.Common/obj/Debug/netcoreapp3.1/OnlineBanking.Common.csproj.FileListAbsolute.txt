@@ -1,0 +1,9 @@
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\bin\Debug\netcoreapp3.1\OnlineBanking.Common.deps.json
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\bin\Debug\netcoreapp3.1\OnlineBanking.Common.dll
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\bin\Debug\netcoreapp3.1\OnlineBanking.Common.pdb
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\obj\Debug\netcoreapp3.1\OnlineBanking.Common.csprojAssemblyReference.cache
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\obj\Debug\netcoreapp3.1\OnlineBanking.Common.AssemblyInfoInputs.cache
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\obj\Debug\netcoreapp3.1\OnlineBanking.Common.AssemblyInfo.cs
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\obj\Debug\netcoreapp3.1\OnlineBanking.Common.csproj.CoreCompileInputs.cache
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\obj\Debug\netcoreapp3.1\OnlineBanking.Common.dll
+C:\Users\ozlemm\source\repos\OnlineBanking\OnlineBanking.Common\obj\Debug\netcoreapp3.1\OnlineBanking.Common.pdb
